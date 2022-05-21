@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "expoServerNgrokUrl": "https://6w-wxi.anonymous.uber.exp.direct",
+  "packagerNgrokUrl": "https://6w-wxi.anonymous.uber.exp.direct",
+  "ngrokPid": 4672,
+  "webpackServerPort": null
+}
